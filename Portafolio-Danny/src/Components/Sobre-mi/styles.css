@@ -1,0 +1,43 @@
+.container-sobre-mi {
+    background-color: #D2DAFF;
+    border-radius: 38px;
+    padding: 20px;
+    margin-top: 30px;
+
+}
+
+.title-sobremi h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.texto-sobremi {
+    font-size: large;
+    color:#646862;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 30px;
+}
+.title-sobremi p {
+    text-align: center;
+}
+
+
+.title-sobremi img {
+    border-radius: 700px;
+    width: 130px;
+    margin: auto 890px;
+}
+.cv {
+    border-radius: 20px;
+    padding: 7px;
+    color: white;
+    background-color: #27374D;
+    border: transparent;
+    margin-left: 900px;
+    cursor: pointer;
+}
+

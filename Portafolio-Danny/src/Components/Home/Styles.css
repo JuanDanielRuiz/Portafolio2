@@ -1,0 +1,104 @@
+.container-home {
+   margin-top: 50px;
+    display: flex;
+    align-items: flex-start;
+    /* border: 1px solid rgb(214, 31, 31); */
+    background-color: #D2DAFF;
+    border-radius: 38px;
+    padding: 60px;
+  }
+  
+  .container-img-danny img {
+    margin-left: 50px;
+    width: 300px;
+    padding: 30px;
+    /* border: 1px solid black; */
+    background: linear-gradient(45deg, #0564FF, #F06292);
+    border-top-left-radius: 500px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 300px;
+    border-bottom-left-radius: 200px;
+  }
+  
+  .container-name {
+    text-align: center;
+    /* border: 1px solid black; */
+    width: 590px;
+    height: 407px;
+    margin-left: 1px;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+ 
+  .container-name h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: #646862;
+    margin-top: -1px;
+    margin-left: -100px;
+  }
+
+  .container-name h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    margin-left: 80px;
+    color: #646862;
+    margin-top: -20px;
+  }
+
+  .container-skills {
+    /* border: 1px solid black; */
+    margin-top: 10px;
+    column-count: 3; 
+    column-gap: 10px; 
+    padding: 20px;
+  
+  }
+  
+  .icon {
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    margin-left:80px;
+    /* border:1px solid black; */
+  
+
+  }
+  .title h1 {
+    margin-left: 40px;
+    margin-top: 30px;
+    font-family: cursive;
+    font-size: 30px;
+  }
+  
+  
+  .container-skills img {
+    width: 50px;
+    display: block;
+    margin-bottom: 50px; 
+  }
+  
+  .container-proyectos {
+    padding: 50px;
+    margin-left: 10px;
+    width: 900px;
+    height: 310px;
+    text-align: center;
+    /* border: 1px solid black; */
+   
+ 
+  }
+  
+  .container-proyectos img {
+    margin-right: 60px;
+    margin-top: 10px;
+    width: 100px;
+    height: 120px;
+  }
+.container-proyectos h1 {
+  color: #646862;
+  margin-top: -40px;
+}
+.raya {
+  margin-top: 40px;
+}
